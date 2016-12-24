@@ -160,7 +160,7 @@ body{
 }
 .content_2{
     width: 98%;
-    background-image: url("slike/kontakti_pozadina.jpg");
+    background-image: url("kontakti_pozadina.jpg");
 	background-repeat: x-repeat;
     margin-top: 70px;
     clear: both;
