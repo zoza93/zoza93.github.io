@@ -25,7 +25,7 @@ body{
 	border: 10px double silver;
 	text-indent: 20px;
 	color:#142537;
-	background-image: url(pozadina.jpg);
+	background-image: url("kontakti_pozadina.jpg");
 }
 /* HEADER */
 #header{
