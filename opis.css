@@ -108,7 +108,7 @@ body {
 	width: 96%;
 	height: 25px;
 	font-size: 1.2em;
-	color: #cyan;
+	color: cyan;
 	padding: 2%;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
@@ -153,7 +153,7 @@ body {
 .content_2 {
 	width: 98%;
 	background-image: url("kontakti_pozadina.jpg");
-	background-repeat: x-repeat;
+	background-repeat: repeat-x;
 	margin-top: 70px;
 	clear: both;
 	margin-left: auto;
@@ -203,7 +203,7 @@ body {
 }
 .sidebar h2 a {
 	font-size: 1em;
-	background-color: none;
+	background-color: transparent;
 	padding: 1%;
 	padding-right: 25%;
 	padding-left: 6%;
@@ -415,7 +415,7 @@ form select {
 		width: 97%
 	}
 	.navigation ul li a {
-		padding: 8 16px
+		padding: 8px 16px
 	}
 	.box h3 {
 		padding-top: 5%
@@ -483,7 +483,7 @@ form select {
 		width: 97%
 	}
 	.navigation ul li a {
-		padding: 8 16px
+		padding: 8px 16px
 	}
 	.box h3 {
 		padding-top: 5%
@@ -548,7 +548,7 @@ form select {
 		padding-right: 0
 	}
 	.navigation ul li a {
-		padding: 8 16px
+		padding: 8px 16px
 	}
 	.box h3 {
 		padding-top: 5%
@@ -605,7 +605,7 @@ form select {
 		width: 97%
 	}
 	.navigation ul li a {
-		padding: 8 16px
+		padding: 8px 16px
 	}
 	.box h3 {
 		padding-top: 5%
@@ -664,7 +664,7 @@ form select {
 		float: none
 	}
 	.navigation ul li a {
-		padding: 8 16px
+		padding: 8px 16px
 	}
 	.box {
 		width: 20%
@@ -714,7 +714,7 @@ form select {
 		float: none
 	}
 	.navigation ul li a {
-		padding: 8 16px
+		padding: 8px 16px
 	}
 	.box {
 		width: 20%
