@@ -380,6 +380,7 @@ form select {
     font: normal normal bold 20px arial;
     color: #0e09a8;
     text-decoration: none;
+    float: right;
 }
 .button:hover,
 .button:focus {
